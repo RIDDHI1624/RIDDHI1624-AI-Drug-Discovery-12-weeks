@@ -1,0 +1,13 @@
+activity_id,assay_chembl_id,molecule_chembl_id,canonical_smiles,IC50_nM,Scaffold
+61241,CHEMBL677833,CHEMBL134312,CN(C)/N=N/c1ccc2ncnc(Nc3cccc(Br)c3)c2c1,11.0,c1ccc(Nc2ncnc3ccccc23)cc1
+42300,CHEMBL677833,CHEMBL136491,CN(C)/N=N/c1ccc2ncnc(Nc3cccc(Cl)c3)c2c1,14.0,c1ccc(Nc2ncnc3ccccc23)cc1
+63852,CHEMBL677833,CHEMBL137617,C/N=N/Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,39.0,c1ccc(Nc2ncnc3ccccc23)cc1
+57335,CHEMBL677833,CHEMBL52765,Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,44.0,c1ccc(Nc2ncnc3ccccc23)cc1
+45872,CHEMBL677833,CHEMBL137364,Brc1cccc(Nc2ncnc3ccc(N/N=N/CCN4CCOCC4)cc23)c1,64.0,c1ccc(Nc2ncnc3ccc(N/N=N/CCN4CCOCC4)cc23)cc1
+44690,CHEMBL677833,CHEMBL133024,C/N=N/Nc1ccc2ncnc(Nc3cccc(Cl)c3)c2c1,100.0,c1ccc(Nc2ncnc3ccccc23)cc1
+56107,CHEMBL677833,CHEMBL343352,Nc1ccc2ncnc(Nc3cccc(Cl)c3)c2c1,200.0,c1ccc(Nc2ncnc3ccccc23)cc1
+63847,CHEMBL677833,CHEMBL137189,C/N=N/Nc1ccc2ncnc(Nc3cccc(C)c3)c2c1,200.0,c1ccc(Nc2ncnc3ccccc23)cc1
+45867,CHEMBL677833,CHEMBL138125,Brc1cccc(Nc2ncnc3ccc(N/N=N/Cc4ccccn4)cc23)c1,238.0,c1ccc(Nc2ncnc3ccc(N/N=N/Cc4ccccn4)cc23)cc1
+63857,CHEMBL677833,CHEMBL137027,CN(C)/N=N/c1ccc2ncnc(NCc3ccccc3)c2c1,482.0,c1ccc(CNc2ncnc3ccccc23)cc1
+48459,CHEMBL677833,CHEMBL332096,Nc1ccc2ncnc(NCc3ccccc3)c2c1,508.0,c1ccc(CNc2ncnc3ccccc23)cc1
+44685,CHEMBL677833,CHEMBL336113,Cc1cccc(Nc2ncnc3ccc(N)cc23)c1,1000.0,c1ccc(Nc2ncnc3ccccc23)cc1

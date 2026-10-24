@@ -1,0 +1,5 @@
+Scaffold,Molecule_Count,Minimum_IC50,Median_IC50,Maximum_IC50
+c1ccc(Nc2ncnc3ccccc23)cc1,8,11.0,72.0,1000.0
+c1ccc(CNc2ncnc3ccccc23)cc1,2,482.0,495.0,508.0
+c1ccc(Nc2ncnc3ccc(N/N=N/CCN4CCOCC4)cc23)cc1,1,64.0,64.0,64.0
+c1ccc(Nc2ncnc3ccc(N/N=N/Cc4ccccn4)cc23)cc1,1,238.0,238.0,238.0

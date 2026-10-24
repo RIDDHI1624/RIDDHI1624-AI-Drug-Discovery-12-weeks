@@ -1,0 +1,5 @@
+Scaffold,Molecule_Count,Percentage
+c1ccc(Nc2ncnc3ccccc23)cc1,8,66.67
+c1ccc(CNc2ncnc3ccccc23)cc1,2,16.67
+c1ccc(Nc2ncnc3ccc(N/N=N/Cc4ccccn4)cc23)cc1,1,8.33
+c1ccc(Nc2ncnc3ccc(N/N=N/CCN4CCOCC4)cc23)cc1,1,8.33
